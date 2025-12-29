@@ -1,3 +1,3 @@
 module github.com/SPetkaa/go-actions-demo
 
-go 1.24.5
+go 1.23
